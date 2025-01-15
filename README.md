@@ -3,15 +3,18 @@
 
 ## 🧑‍💻 About Me
 ML and R&D Engineer with 5 years of experience.
+
 I am experienced in the combination of **Machine Learning**, **Software development** and **Research**.
+
 I have developed this skill set through experience in the fields of Academia ,Corporate Engineering and an AI Start-Up.
 
-### Call to Action
+### 📩 I'd love for us to connect further!
 
-I'd love for us to connect further! Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/yassine-bouabdallaoui/). Interested in learning more? You can also check out my publications on [ResearchGate](https://www.researchgate.net/profile/Yassine-Bouabdallaoui) or read my latest thoughts on [Medium](https://medium.com/@bouabdallaoui.yassine).  
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/yassine-bouabdallaoui/). Interested in learning more? You can also check out my publications on [ResearchGate](https://www.researchgate.net/profile/Yassine-Bouabdallaoui) or read my latest thoughts on [Medium](https://medium.com/@bouabdallaoui.yassine).  
 
 I’m always open to interesting conversations, collaborations, or work opportunities. Don’t hesitate to get in touch!  
 
+---
 
 ## 🎓 Education
 - **PhD in Engineering**  
@@ -32,13 +35,20 @@ I’m always open to interesting conversations, collaborations, or work opportun
 
 ## 🔧 Projects
 
-### **Predictive Maintenance Framework for Facilities (2021) (+100 Citations)  **  
+### **Predictive Maintenance Framework for Facilities (2021) – 100+ Citations** 
 📄 [Publication](https://www.mdpi.com/1424-8220/21/4/1044)  
 Developed a robust framework using a **decoder-encoder architecture** to predict maintenance needs in building facilities, significantly reducing downtime and improving system efficiency.
 
 ![Vibration and Temperature sensors](data/img/sensors.png)  
 
-**Key Technologies:** Python, TensorFlow, Keras, Data Analysis  
+**Key Technologies:** Python, TensorFlow, Keras, Auto-encoders 
+
+---
+### **RAG Project: My Mechanical Assistant (2024)**  
+*Coming Soon...*
+
+**Key Technologies:** LLMs, LangChain, Hugging Face, Machine Learning, NLP
+
 
 ---
 
@@ -49,6 +59,3 @@ Built a framework to automate maintenance requests in complex facilities by impl
 **Key Technologies:** NLP, Scikit-learn, Python, Text Analytics  
 
 ---
-
-## Let's Connect
-Feel free to connect with me via [LinkedIn](my-url) or explore my projects and publications! 
