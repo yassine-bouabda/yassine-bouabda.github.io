@@ -5,9 +5,11 @@ plugins:
   - jekyll-remote-theme
 
 # Social links for the sidebar
-description: | 
-  **ML Engineer, PhD, and Football Lover**  
+description: |
+  <strong>ML Engineer, PhD, and Football Lover</strong>
+  <br><br>
+  🌐 <a href="https://www.linkedin.com/in/yassine-bouabdallaoui/" target="_blank">LinkedIn Profile</a>
   <br>
-  🌐 [LinkedIn Profile](https://www.linkedin.com/in/yassine-bouabdallaoui/)  
-  📄 [ResearchGate Profile](https://www.researchgate.net/profile/Yassine-Bouabdallaoui)  
-  ✍️ [Medium Blog](https://medium.com/@bouabdallaoui.yassine)
+  📄 <a href="https://www.researchgate.net/profile/Yassine-Bouabdallaoui" target="_blank">ResearchGate Profile</a>
+  <br>
+  ✍️ <a href="https://medium.com/@bouabdallaoui.yassine" target="_blank">Medium Blog</a>
