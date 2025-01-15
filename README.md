@@ -2,10 +2,8 @@
 
 
 ## 🧑‍💻 About Me
-ML and R&D Engineer with 5 years of experience.
-
-I am experienced in the combination of **Machine Learning**, **Software development** and **Research**.
-
+ML and R&D Engineer with 5 years of experience.\
+I am experienced in the combination of **Machine Learning**, **Software development** and **Research**.\
 I have developed this skill set through experience in the fields of Academia ,Corporate Engineering and an AI Start-Up.
 
 ### 📩 I'd love for us to connect further!
@@ -40,7 +38,7 @@ I’m always open to interesting conversations, collaborations, or work opportun
 Developed a robust framework using a **decoder-encoder architecture** to predict maintenance needs in building facilities, significantly reducing downtime and improving system efficiency.
 
 ![Vibration and Temperature sensors](data/img/sensors.png)  
-
+*Image of installed sensors to collect machines data*
 **Key Technologies:** Python, TensorFlow, Keras, Auto-encoders 
 
 ---
