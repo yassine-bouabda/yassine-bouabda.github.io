@@ -11,7 +11,7 @@ mathematics and physics (2013-2015, Oujda Morocco).
 
 ## Projects 
 ### Predictive Maintenance framework for facilities 2021
-![Publication](https://www.mdpi.com/1424-8220/21/4/1044)
+[Publication](https://www.mdpi.com/1424-8220/21/4/1044)
 
 Developed a Framework using decoder-endocder architecture for predictive maintenance in building facilities.
 
@@ -19,7 +19,7 @@ Developed a Framework using decoder-endocder architecture for predictive mainten
 
 
 ### Automation of maintenance requests management using a text classifier 2019
-![Publication](https://www.mdpi.com/2075-5309/10/9/160)
+[Publication](https://www.mdpi.com/2075-5309/10/9/160)
 
 Developed a Frameworkto automate maintenance requests management in large complex facilities using a text classifier.
 
