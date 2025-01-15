@@ -2,11 +2,12 @@ title: Yassine BOUABDALLAOUI
 logo: /data/img/my_photo.png
 #description: text below image
 remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 # Social links for the sidebar
-sidebar:
-  - text: "LinkedIn"
-    url: "https://www.linkedin.com/in/yassine-bouabdallaoui/"
-  - text: "ResearchGate"
-    url: "https://www.researchgate.net/profile/Yassine-Bouabdallaoui"
-  - text: "Medium Blog"
-    url: "https://medium.com/@bouabdallaoui.yassine"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  ML Enginner, Phd and FootBall Lover 
+  <br><br>
+  <a href="https://www.linkedin.com/in/yassine-bouabdallaoui/">View My LinkedIn Profile</a> 
+  <a href="https://www.researchgate.net/profile/Yassine-Bouabdallaoui"">View My ResearchGate Profile</a>
+  <a href="https://medium.com/@bouabdallaoui.yassine">View My Meduim Blog Profile</a>
