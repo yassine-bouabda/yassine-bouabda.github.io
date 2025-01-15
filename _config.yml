@@ -2,3 +2,11 @@ title: Yassine BOUABDALLAOUI
 logo: /data/img/my_photo.png
 #description: text below image
 remote_theme: pages-themes/minimal@v0.2.0
+# Social links for the sidebar
+sidebar:
+  - text: "LinkedIn"
+    url: "https://www.linkedin.com/in/yassine-bouabdallaoui/"
+  - text: "ResearchGate"
+    url: "https://www.researchgate.net/profile/Yassine-Bouabdallaoui"
+  - text: "Medium Blog"
+    url: "https://medium.com/@bouabdallaoui.yassine"

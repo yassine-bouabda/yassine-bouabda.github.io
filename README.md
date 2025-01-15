@@ -6,12 +6,6 @@
 
 ## 🧑‍💻 About Me
 ML and R&D Engineer with 5 years of experience using AI to drive Research and Development opportunities. I am experienced in the combination of Machine Learning, Software development and Research. I have developed this skill set through experience in the fields of Academia, Corporate Engineering and, currently, an innovative Start-Up.
-
-📫 Let’s connect:  
-- [LinkedIn](https://www.linkedin.com/in/yassine-bouabdallaoui/)  
-- [ResearchGate](https://www.researchgate.net/profile/Yassine-Bouabdallaoui)  
-- [Medium Blog](https://medium.com/@bouabdallaoui.yassine)
-
 ---
 
 ## 🎓 Education
@@ -33,7 +27,7 @@ ML and R&D Engineer with 5 years of experience using AI to drive Research and De
 
 ## 🔧 Projects
 
-### **Predictive Maintenance Framework for Facilities (2021)**  
+### **Predictive Maintenance Framework for Facilities (2021) (+100 Citations)  **  
 📄 [Publication](https://www.mdpi.com/1424-8220/21/4/1044)  
 Developed a robust framework using a **decoder-encoder architecture** to predict maintenance needs in building facilities, significantly reducing downtime and improving system efficiency.
 
@@ -51,5 +45,5 @@ Built a framework to automate maintenance requests in complex facilities by impl
 
 ---
 
-## ⚡️ Call to Action
-Feel free to connect with me via [LinkedIn](my-url) or explore my projects and publications! 🚀
+## Let's Connect
+Feel free to connect with me via [LinkedIn](my-url) or explore my projects and publications! 
